@@ -21,4 +21,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'AppCenterReactNativeShared'
   s.dependency 'AppCenter/Push'  
+  s.dependency 'React'
 end
